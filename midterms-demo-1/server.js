@@ -3,7 +3,6 @@
 // Section and Code: WD-202/2083
 
 const express = require("express");
-const res = require("express/lib/response");
 const app = express();
 
 app.get("/", function (request, response) {
