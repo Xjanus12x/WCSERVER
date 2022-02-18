@@ -1,4 +1,4 @@
-// Activity Name: server.js - ROUTING
+// Activity Name: myroute.js
 // Author Name: Villacarlos, Alberto S.
 // Section and Code: WD-202/2083
 
