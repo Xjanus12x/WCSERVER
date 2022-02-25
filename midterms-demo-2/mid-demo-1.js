@@ -1,4 +1,4 @@
-// Activity Name: mid-demo.js
+// Activity Name: mid-demo-1.js
 // Author Name: Villacarlos, Alberto S.
 // Section and Code: WD-202/2083
 
